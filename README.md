@@ -7,7 +7,7 @@ Programes i llibreries que necessites:
   * Python
   * Llibreria Tkinter (el programa detecta si la tens instal·lada, en cas contrari intentarà instal·lar-la)
 ### Correr el programa
-Obri un terminal i escriu
+Obri un terminal i escriu:
 ```
 git clone https://github.com/itzAlex/Calculadora-trigonometrica/
 cd Calculadora-trigonometrica
