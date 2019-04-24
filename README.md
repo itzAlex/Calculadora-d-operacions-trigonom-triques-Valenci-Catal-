@@ -9,5 +9,7 @@ Programes i llibreries que necessites:
 ### Correr el programa
 Obri un terminal i escriu
 ```
+git clone https://github.com/itzAlex/Calculadora-trigonometrica/
+cd Calculadora-trigonometrica
 python gui.py
 ```
