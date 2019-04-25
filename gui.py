@@ -8,7 +8,7 @@ except ImportError:
         os.system("pip install Tkinter")
     except:
         print("No s'ha detectat Tkinter en el sistema, s'ha intentat instal·lar i no ha sigut possible. Instala'l manualment")
-        exit
+        exit()
         
 import math
 
