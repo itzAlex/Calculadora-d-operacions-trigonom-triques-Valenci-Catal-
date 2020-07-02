@@ -1,4 +1,4 @@
-# Calculadora d'operacions trigonòmetriques
+# Calculadora d'operacions trigonomètriques
 Calculadora que et permet realitzar operacions trigonomètriques, com podria ser el càlcul del sinus, cosinus i tangent, o també la conversió de graus sexagesimals a radians.
 
 ## Ús del programa
